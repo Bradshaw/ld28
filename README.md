@@ -1,5 +1,5 @@
-Shania and Gaeel are doing Ludum Dare
-=====================================
+Shania and Gaeel's Ludum Dare
+=============================
 
 
 ## Concept
