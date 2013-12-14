@@ -1,3 +1,3 @@
 var gb = document.getElementById('gamebox');
 
-gb.innerHTML = "Connection to eagOS established...\n>"
+gb.innerHTML = "Connection to eagOS established...\n>";
