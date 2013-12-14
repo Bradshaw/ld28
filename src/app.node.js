@@ -33,7 +33,7 @@ routes.four = function (res) {
 function fetchFile (filename, res) {
 	fs.readFile('res'+filename, function(err, data) {
 		if (err) {
-			console.log(err)
+			//console.log(err)
 			routes.four(res);
 		} else {
 			res.writeHead(200, {'Content-Type': mime.lookup(filename)});

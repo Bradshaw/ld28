@@ -1,0 +1,47 @@
+/* CSS generated at csscreator.com */
+body{ font-family: sans-serif;
+	/*font-size: small;*/
+	color: #AABBCC;
+	background-color: #111115;
+}
+/*ul{ list-style-type:disc; }*/
+img{ text-align:center;
+	margin-left: auto ;
+  	margin-right: auto ;
+    padding:0pt;
+	display:block;
+	border-width: 3pt;
+	border-style: solid;
+	border-color: #334455;
+	max-width: 100%;
+}
+a{ text-decoration:none; }
+div{ max-width: 500pt ;
+  margin-left: auto ;
+  margin-right: auto ;
+}
+hr{
+	max-width: 100pt;
+	border: 0;
+	background-color: #123;
+	margin-top: 40pt;
+	margin-bottom: 40pt;
+	height: 1px;
+}
+#title{
+	text-align: center;
+	font-family: georgia;
+	font-size: small;
+	margin-bottom: 0pt;
+	margin-top: 0pt;
+	background-color: #222233;
+	color: #AABBCC;
+}
+#game{
+	padding: 10pt;
+	/*background-color: #111122;*/
+	color: #55CC55;
+	border-color: #CCDDEE;
+	border-width: 0pt;
+	border-style: solid;
+}
